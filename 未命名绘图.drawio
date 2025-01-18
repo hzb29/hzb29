@@ -248,7 +248,7 @@
         <mxCell id="27Euwgu-JXWtEfiwbm5T-62" value="FC Layer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rotation=-90;" vertex="1" parent="vZTbQPiU3WBW6ycrlbHg-1">
           <mxGeometry x="-254.91" y="-252.38" width="126" height="27.38" as="geometry" />
         </mxCell>
-        <mxCell id="27Euwgu-JXWtEfiwbm5T-63" value="&lt;font&gt;Dynamic social relationships decision making&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=12;rotation=-90;" vertex="1" parent="vZTbQPiU3WBW6ycrlbHg-1">
+        <mxCell id="27Euwgu-JXWtEfiwbm5T-63" value="&lt;font&gt;Social Relationships Classification&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=12;rotation=-90;strokeColor=#82b366;" vertex="1" parent="vZTbQPiU3WBW6ycrlbHg-1">
           <mxGeometry x="-180.5" y="-262.88" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="27Euwgu-JXWtEfiwbm5T-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="vZTbQPiU3WBW6ycrlbHg-1" source="27Euwgu-JXWtEfiwbm5T-62" target="27Euwgu-JXWtEfiwbm5T-63">
