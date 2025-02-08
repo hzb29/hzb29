@@ -260,8 +260,8 @@
             <mxPoint x="10.677922061357833" y="22.690000000000055" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6wKE4CKa5VsCz4eJLLqQ-36" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Trajectory-Wise Recurrent Network&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-728.53" y="756" width="210" height="30" as="geometry" />
+        <mxCell id="6wKE4CKa5VsCz4eJLLqQ-36" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Trajectory-Wise Recurrent Network&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-743.53" y="756" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6wKE4CKa5VsCz4eJLLqQ-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
