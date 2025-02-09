@@ -13,8 +13,8 @@
         <mxCell id="aWDQJcY59GnaLLeAtE9K-59" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Textual Tokens&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="578.03" y="262.97" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aWDQJcY59GnaLLeAtE9K-126" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;4&quot;&gt;LLM&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="129" y="165" width="60" height="30" as="geometry" />
+        <mxCell id="aWDQJcY59GnaLLeAtE9K-126" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;4&quot;&gt;Large Language Models&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120.89" y="165" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aWDQJcY59GnaLLeAtE9K-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
