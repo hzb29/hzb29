@@ -4,10 +4,10 @@
       <root>
         <mxCell id="vZTbQPiU3WBW6ycrlbHg-0" />
         <mxCell id="vZTbQPiU3WBW6ycrlbHg-1" parent="vZTbQPiU3WBW6ycrlbHg-0" />
-        <mxCell id="8jz_nMOQ5VEFr1YJsq_3-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#009900;strokeWidth=3;arcSize=5;" parent="vZTbQPiU3WBW6ycrlbHg-1" vertex="1">
+        <mxCell id="8jz_nMOQ5VEFr1YJsq_3-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CCE5FF;strokeWidth=3;arcSize=5;" parent="vZTbQPiU3WBW6ycrlbHg-1" vertex="1">
           <mxGeometry x="-1134.05" y="-333" width="1095.05" height="256" as="geometry" />
         </mxCell>
-        <mxCell id="8jz_nMOQ5VEFr1YJsq_3-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#009900;strokeWidth=3;arcSize=5;" parent="vZTbQPiU3WBW6ycrlbHg-1" vertex="1">
+        <mxCell id="8jz_nMOQ5VEFr1YJsq_3-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CCE5FF;strokeWidth=3;arcSize=5;" parent="vZTbQPiU3WBW6ycrlbHg-1" vertex="1">
           <mxGeometry x="-1134.05" y="-617" width="1095.05" height="274" as="geometry" />
         </mxCell>
         <mxCell id="27Euwgu-JXWtEfiwbm5T-0" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipH=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="vZTbQPiU3WBW6ycrlbHg-1" vertex="1">
@@ -440,9 +440,6 @@
         </mxCell>
         <mxCell id="8jz_nMOQ5VEFr1YJsq_3-6" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;IoT Attribute Embedding&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vZTbQPiU3WBW6ycrlbHg-1" vertex="1">
           <mxGeometry x="-795" y="-583" width="150" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="8jz_nMOQ5VEFr1YJsq_3-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Updated Hidden States at t&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vZTbQPiU3WBW6ycrlbHg-1" vertex="1">
-          <mxGeometry x="-232.00000000000003" y="-552" width="157" height="26" as="geometry" />
         </mxCell>
         <mxCell id="8jz_nMOQ5VEFr1YJsq_3-11" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Structural Alignment&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vZTbQPiU3WBW6ycrlbHg-1" vertex="1">
           <mxGeometry x="-232" y="-391" width="128" height="26" as="geometry" />
