@@ -220,12 +220,6 @@
         <mxCell id="QTiqQ1Uc_ppkP_PZXtB7-55" value="X_t" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="420" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QTiqQ1Uc_ppkP_PZXtB7-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="390" as="sourcePoint" />
-            <mxPoint x="190" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QTiqQ1Uc_ppkP_PZXtB7-77" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="170" y="480" width="40" height="40" as="geometry" />
         </mxCell>
@@ -332,6 +326,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="505" y="377" as="sourcePoint" />
             <mxPoint x="465" y="377" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTiqQ1Uc_ppkP_PZXtB7-92" value="因果解耦模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="465" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QTiqQ1Uc_ppkP_PZXtB7-93" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="499.41" as="sourcePoint" />
+            <mxPoint x="170" y="499.41" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
