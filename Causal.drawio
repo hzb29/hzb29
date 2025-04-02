@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" version="26.2.2">
   <diagram name="因果解耦学习" id="Xn1MKm5G6cUb3gmnLiGP">
-    <mxGraphModel dx="790" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1115" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ucolTSoBBcxQ1Ks-dDeu-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="60" y="460" width="400" height="480" as="geometry" />
+        </mxCell>
         <mxCell id="ucolTSoBBcxQ1Ks-dDeu-4" value="综合决策函数&#xa;D_i = λ₁*I(in-degree) + λ₂*E_i + λ₃*σ_i + λ₄*CP_i" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="90" y="490" width="280" height="80" as="geometry" />
         </mxCell>
@@ -46,7 +49,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ucolTSoBBcxQ1Ks-dDeu-47" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="480" y="520" width="160" height="140" as="geometry" />
+          <mxGeometry x="480" y="514" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ucolTSoBBcxQ1Ks-dDeu-48" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66CC00;" vertex="1" parent="ucolTSoBBcxQ1Ks-dDeu-47">
           <mxGeometry x="6.666666666666666" y="103.33" width="33.33333333333333" height="33.33333333333333" as="geometry" />
@@ -97,7 +100,7 @@
           <mxGeometry x="106.66666666666666" y="3.34" width="33.33333333333333" height="33.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="ucolTSoBBcxQ1Ks-dDeu-64" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="480" y="710" width="160" height="140" as="geometry" />
+          <mxGeometry x="480" y="760" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ucolTSoBBcxQ1Ks-dDeu-65" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="ucolTSoBBcxQ1Ks-dDeu-64">
           <mxGeometry x="6.666666666666666" y="103.33" width="33.33333333333333" height="33.33333333333333" as="geometry" />
@@ -146,6 +149,18 @@
         </mxCell>
         <mxCell id="ucolTSoBBcxQ1Ks-dDeu-80" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFB366;" vertex="1" parent="ucolTSoBBcxQ1Ks-dDeu-64">
           <mxGeometry x="106.66666666666666" y="3.34" width="33.33333333333333" height="33.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="ucolTSoBBcxQ1Ks-dDeu-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439" y="594" as="sourcePoint" />
+            <mxPoint x="479" y="594" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ucolTSoBBcxQ1Ks-dDeu-82" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="838.8199999999999" as="sourcePoint" />
+            <mxPoint x="480" y="838.8199999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
