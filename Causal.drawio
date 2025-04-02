@@ -5,28 +5,26 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ucolTSoBBcxQ1Ks-dDeu-4" value="综合决策函数&#xa;D_i = λ₁*I(in-degree) + λ₂*E_i + λ₃*σ_i + λ₄*CP_i" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="80" y="490" width="300" height="80" as="geometry" />
+          <mxGeometry x="90" y="490" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ucolTSoBBcxQ1Ks-dDeu-5" value="D_i &amp;gt; φ&#39;&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="170" y="610" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ucolTSoBBcxQ1Ks-dDeu-6" value="主观性参数&#xa;(Label = 1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="40" y="730" width="180" height="60" as="geometry" />
+          <mxGeometry x="120" y="730" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ucolTSoBBcxQ1Ks-dDeu-7" value="客观性参数&#xa;(Label = 0)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="240" y="730" width="180" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ucolTSoBBcxQ1Ks-dDeu-8" value="因果权重矩阵 C" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="460" y="560" width="50" height="310" as="geometry" />
+          <mxGeometry x="250" y="730" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ucolTSoBBcxQ1Ks-dDeu-9" value="W_sc = C ∘ L" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="560" y="810" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ucolTSoBBcxQ1Ks-dDeu-10" value="W_oc = C ∘ (1-L)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="560" y="560" width="180" height="60" as="geometry" />
+          <mxGeometry x="470" y="490" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ucolTSoBBcxQ1Ks-dDeu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ucolTSoBBcxQ1Ks-dDeu-11" target="ucolTSoBBcxQ1Ks-dDeu-8">
+        <mxCell id="ucolTSoBBcxQ1Ks-dDeu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ucolTSoBBcxQ1Ks-dDeu-11">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="715.0000000000002" as="targetPoint" />
             <Array as="points">
               <mxPoint x="440" y="890" />
               <mxPoint x="440" y="715" />
@@ -43,12 +41,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ucolTSoBBcxQ1Ks-dDeu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="ucolTSoBBcxQ1Ks-dDeu-5" target="ucolTSoBBcxQ1Ks-dDeu-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ucolTSoBBcxQ1Ks-dDeu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="ucolTSoBBcxQ1Ks-dDeu-8" target="ucolTSoBBcxQ1Ks-dDeu-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ucolTSoBBcxQ1Ks-dDeu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="ucolTSoBBcxQ1Ks-dDeu-8" target="ucolTSoBBcxQ1Ks-dDeu-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ucolTSoBBcxQ1Ks-dDeu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="ucolTSoBBcxQ1Ks-dDeu-6" target="ucolTSoBBcxQ1Ks-dDeu-11">
