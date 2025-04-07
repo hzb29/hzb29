@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" version="26.2.4">
   <diagram name="因果解耦学习" id="Xn1MKm5G6cUb3gmnLiGP">
-    <mxGraphModel dx="1115" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="948" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2340,7 +2340,7 @@
             <mxPoint x="170.5" y="562" as="sourcePoint" />
             <mxPoint x="190.5" y="515" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="186.5" y="548" />
+              <mxPoint x="191" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
