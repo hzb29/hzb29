@@ -1669,6 +1669,18 @@
         <mxCell id="rgO1IkCE_g6FmvvxDIRA-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6C8EBF;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="294.24" y="583.5" width="32" height="246.5" as="geometry" />
         </mxCell>
+        <mxCell id="rgO1IkCE_g6FmvvxDIRA-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Trajectory Gated Recurrent Module&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-699.23" y="550" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rgO1IkCE_g6FmvvxDIRA-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Selective-Forget Relational Graph Convolution Module&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-733" y="580" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rgO1IkCE_g6FmvvxDIRA-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Trajectory Gated Recurrent Module&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-43.610000000000014" y="552.9" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rgO1IkCE_g6FmvvxDIRA-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Selective-Forget Relational Graph Convolution Module&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-77.38" y="582.9" width="310" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
