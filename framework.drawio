@@ -655,7 +655,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eBTsNGKh9J8Of9DKXB6k-308" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Stage 2:&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Structure-Enhanced Semantic Graph Token Alignment&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="337.88999999999993" y="379.99999999999994" width="460" height="30" as="geometry" />
+          <mxGeometry x="339.99999999999994" y="387.99999999999994" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBTsNGKh9J8Of9DKXB6k-328" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="870" y="340" width="140.26999999999998" height="46.29" as="geometry" />
