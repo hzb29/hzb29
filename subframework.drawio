@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="第 1 页" id="RAJ64y69nqSLOVFopzIN">
-    <mxGraphModel dx="1416" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1180" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,13 +149,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xOVv5o0_Ok2drihf3rrl-112" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="310" y="343.45" width="100" height="56.55" as="geometry" />
+          <mxGeometry x="310" y="343.45" width="100" height="96.55" as="geometry" />
         </mxCell>
         <mxCell id="xOVv5o0_Ok2drihf3rrl-102" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeWidth=3;arcSize=5;opacity=40;strokeColor=#82b366;" parent="xOVv5o0_Ok2drihf3rrl-112" vertex="1">
-          <mxGeometry y="2.2676911341853088" width="100" height="52.3313338658147" as="geometry" />
-        </mxCell>
-        <mxCell id="xOVv5o0_Ok2drihf3rrl-21" value="&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: nowrap; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=left;" parent="xOVv5o0_Ok2drihf3rrl-112" vertex="1">
-          <mxGeometry width="99.601593625498" height="56.55" as="geometry" />
+          <mxGeometry y="3.871716693290744" width="100" height="89.34730830670928" as="geometry" />
         </mxCell>
         <mxCell id="xOVv5o0_Ok2drihf3rrl-113" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -192,6 +189,9 @@
         </mxCell>
         <mxCell id="bkcS7JkxtclBIGhn5uYZ-95" value="&lt;span style=&quot;text-align: start; white-space: pre;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMlRva2VuaXplciUyMiU3RCU1RCU3RCU1RA==&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Tokenizer&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="308" y="286.97" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="voqbqhCSesgW_Fj4hHRe-2" value="&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Prompt Template&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="375.73" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
