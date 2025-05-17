@@ -223,6 +223,12 @@
             <mxPoint x="250" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YIstWTecRNFxvellkJOl-58" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;特征分发&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420.5" y="305" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YIstWTecRNFxvellkJOl-59" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;专家选择&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="704" y="439" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
