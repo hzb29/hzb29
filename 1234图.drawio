@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FqFrVolzEPRRc96D3bEb-33" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="480" y="800" width="720" height="340" as="geometry" />
+        <mxCell id="FqFrVolzEPRRc96D3bEb-33" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#333333;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="610" y="800" width="470" height="340" as="geometry" />
         </mxCell>
         <mxCell id="FqFrVolzEPRRc96D3bEb-29" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="480" y="260" width="720" height="360" as="geometry" />
+          <mxGeometry x="610" y="260" width="470" height="360" as="geometry" />
         </mxCell>
         <mxCell id="FqFrVolzEPRRc96D3bEb-1" value="连续TBM数据&lt;br&gt;推力, 贯入度等" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="640" y="320" width="160" height="70" as="geometry" />
