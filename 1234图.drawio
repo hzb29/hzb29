@@ -10,58 +10,59 @@
         <mxCell id="FqFrVolzEPRRc96D3bEb-29" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="480" y="260" width="720" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="FqFrVolzEPRRc96D3bEb-1" value="连续TBM数据&lt;br&gt;推力, 扭矩, 转速等" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="560" y="320" width="160" height="70" as="geometry" />
+        <mxCell id="FqFrVolzEPRRc96D3bEb-1" value="连续TBM数据&lt;br&gt;推力, 贯入度等" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FqFrVolzEPRRc96D3bEb-2" value="离散微震事件&lt;br&gt;时间, 三维坐标, 能量" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="960" y="320" width="160" height="70" as="geometry" />
+        <mxCell id="FqFrVolzEPRRc96D3bEb-2" value="微震事件&lt;br&gt;时间, 三维坐标, 能量" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="880" y="320" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FqFrVolzEPRRc96D3bEb-3" value="TBM编码器&lt;br&gt;&lt;b&gt;Transformer Encoder&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="560" y="440" width="160" height="70" as="geometry" />
+          <mxGeometry x="640" y="440" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FqFrVolzEPRRc96D3bEb-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="FqFrVolzEPRRc96D3bEb-1" target="FqFrVolzEPRRc96D3bEb-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="820" y="490" as="sourcePoint" />
-            <mxPoint x="870" y="440" as="targetPoint" />
+            <mxPoint x="900" y="490" as="sourcePoint" />
+            <mxPoint x="950" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FqFrVolzEPRRc96D3bEb-5" value="时空图构建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="960" y="430" width="160" height="40" as="geometry" />
+        <mxCell id="FqFrVolzEPRRc96D3bEb-5" value="&lt;span style=&quot;text-align: start; white-space: pre;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJ6eWI5ZHZhTVdCJTIyJTJDJTIycGFyYUlkeCUyMiUzQTAlMkMlMjJzcmMlMjIlM0ElMjJzcGF0aWFsLXRlbXBvcmFsJTIwZ3JhcGglMjIlMkMlMjJkc3QlMjIlM0ElMjIlRTYlOTclQjYlRTclQTklQkElRTUlOUIlQkUlMjIlMkMlMjJtZXRhZGF0YSUyMiUzQSUyMiUyMiUyQyUyMm1hdGNoZXMlMjIlM0FudWxsJTJDJTIybWV0YURhdGElMjIlM0ElNUIlNUQlMkMlMjJ0ZXh0JTIyJTNBJTIyc3BhdGlhbC10ZW1wb3JhbCUyMGdyYXBoJTIyJTdEJTVEJTdEJTVE&quot;&gt;Spatial-Temporal Graph&lt;/span&gt;构建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="880" y="430" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FqFrVolzEPRRc96D3bEb-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="FqFrVolzEPRRc96D3bEb-2" target="FqFrVolzEPRRc96D3bEb-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="830" y="500" as="sourcePoint" />
-            <mxPoint x="880" y="450" as="targetPoint" />
+            <mxPoint x="750" y="500" as="sourcePoint" />
+            <mxPoint x="800" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FqFrVolzEPRRc96D3bEb-7" value="微震编码器&lt;br&gt;&lt;b&gt;GNN + GRU&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="960" y="490" width="160" height="70" as="geometry" />
+          <mxGeometry x="880" y="490" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FqFrVolzEPRRc96D3bEb-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="FqFrVolzEPRRc96D3bEb-5" target="FqFrVolzEPRRc96D3bEb-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1050" y="410" as="sourcePoint" />
-            <mxPoint x="1050" y="460" as="targetPoint" />
+            <mxPoint x="970" y="410" as="sourcePoint" />
+            <mxPoint x="970" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FqFrVolzEPRRc96D3bEb-9" value="跨模态注意力融合层&lt;br&gt;&lt;b&gt;Cross-Modal Attention&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="740" y="650" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FqFrVolzEPRRc96D3bEb-10" value="TBM特征序列" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FqFrVolzEPRRc96D3bEb-3" target="FqFrVolzEPRRc96D3bEb-9">
-          <mxGeometry x="0.2349" relative="1" as="geometry">
+          <mxGeometry x="0.0765" relative="1" as="geometry">
             <mxPoint x="640" y="650" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="580" />
+              <mxPoint x="720" y="580" />
               <mxPoint x="840" y="580" />
             </Array>
-            <mxPoint x="1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FqFrVolzEPRRc96D3bEb-11" value="微震图特征" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="FqFrVolzEPRRc96D3bEb-7" target="FqFrVolzEPRRc96D3bEb-9">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.1434" relative="1" as="geometry">
             <mxPoint x="1040" y="650" as="targetPoint" />
             <Array as="points">
               <mxPoint x="840" y="580" />
             </Array>
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FqFrVolzEPRRc96D3bEb-12" value="多任务专家预测网络&lt;br&gt;&lt;b&gt;MMOE&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -121,9 +122,6 @@
             <mxPoint x="1140" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FqFrVolzEPRRc96D3bEb-28" value="GAT-T: 时空图注意力融合Transformer网络" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="590" y="200" width="500" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="FqFrVolzEPRRc96D3bEb-30" value="输入模块: TBM，微震独立编码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="745" y="270" width="190" height="30" as="geometry" />
         </mxCell>
@@ -135,6 +133,9 @@
         </mxCell>
         <mxCell id="FqFrVolzEPRRc96D3bEb-34" value="预测模块: 多任务解码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="770" y="890" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FqFrVolzEPRRc96D3bEb-35" value="Query = Wq*TBM&lt;div&gt;Key = Wk*微震&lt;/div&gt;&lt;div&gt;Value = Wv*微震&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="780" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
