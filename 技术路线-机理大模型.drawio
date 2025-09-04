@@ -62,10 +62,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e863h8dpBGmLFu_C36_v-3" value="岩爆类型-等级-区域预警&lt;div&gt;（韩祝滨）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="240" width="80" height="60" as="geometry" />
+          <mxGeometry x="630" y="240" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e863h8dpBGmLFu_C36_v-4" value="岩爆孕育机理解读&lt;div&gt;（汤怡琳）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="370" width="80" height="60" as="geometry" />
+          <mxGeometry x="630" y="370" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e863h8dpBGmLFu_C36_v-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="e863h8dpBGmLFu_C36_v-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="270" as="sourcePoint" />
+            <mxPoint x="510" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e863h8dpBGmLFu_C36_v-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="400" as="sourcePoint" />
+            <mxPoint x="630" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e863h8dpBGmLFu_C36_v-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="400" as="sourcePoint" />
+            <mxPoint x="610" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e863h8dpBGmLFu_C36_v-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="e863h8dpBGmLFu_C36_v-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="380" as="sourcePoint" />
+            <mxPoint x="610" y="335" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
