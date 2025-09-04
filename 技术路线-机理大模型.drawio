@@ -52,7 +52,7 @@
             <mxPoint x="390" y="254.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e863h8dpBGmLFu_C36_v-1" value="数据时空融合" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="e863h8dpBGmLFu_C36_v-1" value="数据时空融合&lt;div&gt;（韩祝滨）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e863h8dpBGmLFu_C36_v-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -60,6 +60,12 @@
             <mxPoint x="440" y="334.5" as="sourcePoint" />
             <mxPoint x="480" y="334.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="e863h8dpBGmLFu_C36_v-3" value="岩爆类型-等级-区域预警&lt;div&gt;（韩祝滨）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="240" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e863h8dpBGmLFu_C36_v-4" value="岩爆孕育机理解读&lt;div&gt;（汤怡琳）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="370" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
