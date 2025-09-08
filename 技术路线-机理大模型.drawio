@@ -19,10 +19,10 @@
         <mxCell id="e863h8dpBGmLFu_C36_v-4" value="&lt;span style=&quot;font-family: 仿宋_GB2312;&quot;&gt;数据时空融合&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="510" width="280" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="e863h8dpBGmLFu_C36_v-9" value="&lt;font face=&quot;仿宋_GB2312&quot;&gt;系统集成与交互设计（全体人员）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="e863h8dpBGmLFu_C36_v-9" value="&lt;font face=&quot;仿宋_GB2312&quot;&gt;系统集成与交互设计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="670" width="280" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="e863h8dpBGmLFu_C36_v-23" value="&lt;font face=&quot;仿宋_GB2312&quot;&gt;现场验证（毕鑫）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="e863h8dpBGmLFu_C36_v-23" value="&lt;font face=&quot;仿宋_GB2312&quot;&gt;现场验证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="710" width="280" height="25" as="geometry" />
         </mxCell>
         <mxCell id="e863h8dpBGmLFu_C36_v-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="e863h8dpBGmLFu_C36_v-3" source="A9R9xWhOiJBCjYOg_5s1-3">
